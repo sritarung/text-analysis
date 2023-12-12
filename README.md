@@ -1,4 +1,4 @@
-# CSC 448 Final
+# CSC 448 Final Project
 
 # Team ASH: Haseeb Chaudhury, Animesh Deb, Sri Tarun Gulumuru, Al Shafian Bari 
 
