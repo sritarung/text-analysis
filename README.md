@@ -16,26 +16,7 @@ personnel. We will  be discussing how text classification works and showcase its
 two supervised learning models and one unsupervised learning model.
 
 # Solution
-most shared data is completely unstructured and left for interpretation.
-Recent studies show that around 80% of all data being shared in text form is unstructured. We can
-use machine learning to categorize this data efficiently by training it to relate patterns and classify
-text with a target value. More specifically, this “training” is the process of breaking down text and
-assigning a category or a tag to each individual piece. These assigned tags provide some insight on
-the overall meaning of the analyzed text. Machines, however, don’t understand the nuances of human
-communication, and so we must teach them to understand language structure and phrase structure. 
-For a machine learning model to even do this, it is given various tools and methods that separate text and extract features from it.
-One of these methods involves vectorization techniques. These vectorization techniques break down text into
-smaller individual components known as vectors to make data more digestible for a machine to
-analyze. Additionally, there are other methods for feature extraction such as Stemming and
-Lemmatization, which involves simplifying a word and its many different forms of usage to its simple
-root or base word respectively.
-
-In the realm of data analysis, where approximately 80% of shared information exists in unstructured text form, machine learning becomes a pivotal tool for efficient categorization. 
-This involves training models like Naive Bayes and Logistic Regression to discern patterns and assign relevant tags to pieces of text. 
-These models, however, necessitate the comprehension of language nuances and structure, prompting the use of techniques like vectorization, stemming, and lemmatization.
-Vectorization involves breaking down text into digestible vectors, while stemming and lemmatization simplify words to their root forms. 
-In parallel, deep learning, facilitated by frameworks like TensorFlow, introduces neural networks, such as Recurrent Neural Networks (RNNs), to comprehend the sequential nature of language, capturing intricate patterns. Collectively, these approaches empower machines to process and analyze unstructured text efficiently, enhancing their understanding of the inherent structure and meaning within the data.
-
+In the landscape of data analysis, where a substantial 80% of shared information exists in unstructured text, machine learning emerges as a critical tool for systematic categorization. This entails training models such as Naive Bayes and Logistic Regression, leveraging their ability to discern intricate patterns within text and assign relevant tags to individual pieces. Naive Bayes relies on probabilistic principles, assuming independence among features, making it adept at tasks like sentiment analysis or spam filtering. Logistic Regression, despite its name, is a robust classification algorithm, often applied to binary classification problems in text, such as determining if an email is spam or not. These models, however, require an understanding of language nuances, leading to the incorporation of techniques like vectorization, stemming, and lemmatization. Vectorization breaks down text into manageable vectors, while stemming and lemmatization simplify words to their root forms, enhancing efficiency in feature extraction. In parallel, deep learning techniques, facilitated by frameworks like TensorFlow, introduce powerful neural networks, such as Recurrent Neural Networks (RNNs). RNNs excel at capturing the sequential nature of language, providing a nuanced understanding of context and dependencies within text. This collective approach equips machines to navigate unstructured text effectively, unraveling its inherent structure and meaning with precision.
 Text classification using  Sentiment140 dataset with 1.6 million tweets
 
 <img width="621" alt="Screenshot 2023-12-11 at 8 04 17 PM" src="https://github.com/sritarung/csc448_final/assets/41488124/e2f8f1c3-c7ff-467e-8ac7-9e8116017ea6">
