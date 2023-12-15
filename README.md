@@ -30,7 +30,11 @@ analyze. Additionally, there are other methods for feature extraction such as St
 Lemmatization, which involves simplifying a word and its many different forms of usage to its simple
 root or base word respectively.
 
-
+In the realm of data analysis, where approximately 80% of shared information exists in unstructured text form, machine learning becomes a pivotal tool for efficient categorization. 
+This involves training models like Naive Bayes and Logistic Regression to discern patterns and assign relevant tags to pieces of text. 
+These models, however, necessitate the comprehension of language nuances and structure, prompting the use of techniques like vectorization, stemming, and lemmatization.
+Vectorization involves breaking down text into digestible vectors, while stemming and lemmatization simplify words to their root forms. 
+In parallel, deep learning, facilitated by frameworks like TensorFlow, introduces neural networks, such as Recurrent Neural Networks (RNNs), to comprehend the sequential nature of language, capturing intricate patterns. Collectively, these approaches empower machines to process and analyze unstructured text efficiently, enhancing their understanding of the inherent structure and meaning within the data.
 
 Text classification using  Sentiment140 dataset with 1.6 million tweets
 
