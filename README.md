@@ -3,7 +3,9 @@
 # Team ASH: Haseeb Chaudhury, Animesh Deb, Sri Tarun Gulumuru, Al Shafian Bari 
 
 # About our Topic: Text Classification
-
+# Tasks and Assigned
+![image](https://github.com/sritarung/csc448_final/assets/102705914/d027f85c-7fa7-428e-bcb2-bb68f8659c93)
+ 
 # Problem
 Text classification is a machine-learning technique that is fundamental to natural language processing
 (NLP), a field of artificial intelligence, linguistics, and computer science. NLP is the idea that a machine can
